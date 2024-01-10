@@ -41,6 +41,6 @@ AtliQ is a fast-growing hardware company that sells various products to customer
 1. The Sales report helps in understanding top customers and monitoring sales, which, in turn, can be used to negotiate with retailers and distributors regarding pre-invoice discount allocation.
 2. The Finance report helps comprehend the overall company performance and identification of expansion opportunities guided by insights.
 
-- LinkedIn: www.linkedin.com/in/v-s-santhi-anantha-71634a27a 
+- LinkedIn: https://www.linkedin.com/in/venkata-siva-santhi-anantha-71634a27a/
 - I would like to thank codebasics team, Dhaval Patel, Hemanand Vadivel for creating this wonderful course
  
